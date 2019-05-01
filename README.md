@@ -68,7 +68,7 @@
     - vimrc + themes
   - Terminal
     - Iterm2 + brogrammer themes
-  - Tool chains
+  - Toolchains
     - git
     - vim
     - ssh
@@ -80,4 +80,18 @@
     - ETC
   - Casks
     - keycastr
-  
+  - IDE & Editor
+    - Visual Studio Code
+    - Visual Studio Community Edition
+    - Sublime text
+    - Atom
+  - Developer applications
+    - docker
+    - file zilla
+    - insomnia
+    - helm
+    - pulse secure
+    - VirtualBox
+  - Browser
+    - Google chrome
+    - Mozilla Firefox
